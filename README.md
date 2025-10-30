@@ -1,8 +1,8 @@
-<!-- ⚡ BOT DOR FT TUNNEL WITH ATLANTIC ⚡ -->
+
 
 <div align="center">
-  🔥 <b>DOR ATLANTIC BOT</b> 🔥 <br>
-Minimalist & Powerful Telegram Bot for Provider XL and PPOB Integration<br>  
+<h1><b>🔥BOT DOR FT TUNNEL🔥</h1></b><br>
+<b>Minimalist & Powerful Telegram Bot for Provider XL and PPOB Integration</b><br>  
   <img src="https://raw.githubusercontent.com/mudziboy/doratlantic/main/app/botdor.jpg" alt="DOR FT TUNNEL Banner" width="90%" style="max-width: 800px; border-radius: 15px; box-shadow: 0 5px 25px rgba(0,0,0,0.4), 0 0 10px rgba(0,0,0,0.1) inset; margin-top: 20px;"/>
 </div>
 
