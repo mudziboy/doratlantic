@@ -1,4 +1,4 @@
----
+
 
 <!-- DOR ATLANTIC BOT README.md -->
 <div align="center">
@@ -70,4 +70,3 @@ memungkinkan pembelian otomatis dengan saldo PPOB atau metode pembayaran terdaft
     © 2025 — <b>DOR FT TUNNEL PROJECT</b>
   </p></div>
 ```
----
