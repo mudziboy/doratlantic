@@ -35,7 +35,6 @@ def main():
     # Message Handler
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, master_message_handler))
     
-    # --- KODE UNTUK MENJALANKAN WEBHOOK DIHAPUS DARI SINI ---
     
     print("BOT Token ditemukan, bot utama dijalankan...")
     application.run_polling()
