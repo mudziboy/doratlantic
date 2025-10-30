@@ -1,4 +1,4 @@
-# app/handlers/payment_handlers.py
+# RAHMARIE PERNAH STRESS DISINK
 
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ContextTypes
@@ -182,4 +182,5 @@ async def process_ewallet_payment(update: Update, context: ContextTypes.DEFAULT_
             await context.bot.send_message(chat_id=chat_id, text=f"❌ Gagal memproses pembayaran: {settlement_response.get('message', 'Terjadi kesalahan.')}")
     except Exception as e:
         await context.bot.send_message(chat_id=chat_id, text=f"❌ Error internal: {e}")
+
     await show_main_menu_bot(update, context)
