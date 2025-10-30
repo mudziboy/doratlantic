@@ -1,4 +1,4 @@
-<!-- ⚡ BOT DOR FT TUNNEL WITH ATLANTIC ⚡ -->
+<!-- ⚡ DOR ATLANTIC BOT README.md with Canvas for Easy Copy ⚡ -->
 <div align="center">
   <canvas id="readmeCanvas" width="900" height="1300" style="border:1px solid #ddd; border-radius: 10px; box-shadow: 0 5px 25px rgba(0,0,0,0.1);"></canvas>
 </div>
