@@ -1,3 +1,5 @@
+#KODE ASLINYA PENUH DEBUG WKWKWK
+
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters
 # threading dan webhook_server sudah tidak diperlukan di sini
 # import threading
